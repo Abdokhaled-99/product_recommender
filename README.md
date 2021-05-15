@@ -12,6 +12,6 @@ this plot shows how the density of the dataset , as we see most products have on
 
 ![image](https://user-images.githubusercontent.com/43261845/118348903-957c6980-b54d-11eb-82c9-a24e1cc93eda.png)
 
-**snapshot of the API**
+**snapshot of the API**<br>
 ![image](https://user-images.githubusercontent.com/43261845/118349238-d4132380-b54f-11eb-8fc6-de31a60ee68c.png)
 
