@@ -1,7 +1,7 @@
 # product_recommender
 product recommender system SVD algorithm ,and API using flask<br>
-I used datasets from amzon product review, I've choosed __Arts, Crafts and Sewing *(meta & core5 )*__ becuase the size is small<br>
-the data sets for this project [here](https://nijianmo.github.io/amazon/index.html)<br>
+I used datasets from [amzon product review](https://nijianmo.github.io/amazon/index.html), I've choosed __Arts, Crafts and Sewing *(meta & core5 )*__ becuase the size is small<br>
+
 the data sets after parsing and cleaning [here!](https://drive.google.com/drive/folders/1YXt1mw1pKU6XpZCtg7S5CjsNlipne7wc?usp=sharing)<br>
 
 ## cleaning data <br>
@@ -50,8 +50,8 @@ join core5 on meta.asin = core5.asin
 ```
 
 ## integrated dataset used in the model: 
-1. [arts_crafts](https://drive.google.com/file/d/1T_dQuz49ftOOUu4Xv-oZkjrWhsyWlHkS/view?usp=sharing)
-2. result after building th model [result](https://drive.google.com/file/d/12R6tU19U0AWnfASj3675JW_xiJnnRx8z/view?usp=sharing)
+1. [arts_craftss](https://drive.google.com/drive/folders/1YXt1mw1pKU6XpZCtg7S5CjsNlipne7wc?usp=sharing)<br>
+2. result after building th model [arts_crafts_result](https://drive.google.com/file/d/1s_QA4002tgUaOj89HwXgdcusEsSX6AfQ/view?usp=sharing)<br>
 
 this plot shows how the density of the dataset , as we see most products have only few rating this means sparse issue and so that I used SVD algo<br>
 
